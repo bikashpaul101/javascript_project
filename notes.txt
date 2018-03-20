@@ -1,0 +1,7 @@
+Syntax Parser- Program that reads our code and determines what it does and if the grammar is valid
+
+Lexical Environment - Where sits physically in the code we write.A Lexical Environment exists in programming language in which  "Where" we wrote something is important.
+
+Execution Context - A wrapper to help manage the code that is running.There are lot of Lexical Environments,which one is running is managed via Execution Context.
+
+Hoisting
